@@ -1,3 +1,6 @@
 [submodule "clouds-on-mars"]
 	path = clouds-on-mars
 	url = git@github.com:adamzaninovich/clouds-on-mars.git
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
