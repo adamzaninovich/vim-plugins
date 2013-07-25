@@ -6,5 +6,5 @@ My personal vim plugin directory
 
 This repo has submodules, so you need to clone recursively:
 
-    git clone --recursive git://github.com/azaninovich/vim-plugins.git
+    git clone --recursive git@github.com:adamzaninovich/vim-plugins.git
 
