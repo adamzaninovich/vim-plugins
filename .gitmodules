@@ -1,3 +1,6 @@
 [submodule "clouds-on-mars"]
 	path = clouds-on-mars
 	url = git@github.com:adamzaninovich/clouds-on-mars.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
