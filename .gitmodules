@@ -4,3 +4,9 @@
 [submodule "vim-gitgutter"]
 	path = vim-gitgutter
 	url = git@github.com:airblade/vim-gitgutter.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "vim-osx-colorpicker"]
+	path = vim-osx-colorpicker
+	url = git@github.com:iandoe/vim-osx-colorpicker.git
